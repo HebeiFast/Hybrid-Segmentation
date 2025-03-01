@@ -1,0 +1,4 @@
+# ninja log v5
+0	4958	1714274228846593093	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-3.10/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	cc51694542a391b2
+1	16409	1714274240298781076	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-3.10/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/vision.o	8af9c1f54407ac4e
+0	17135	1714274241014792779	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-3.10/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	b034845a0ba4ec7e

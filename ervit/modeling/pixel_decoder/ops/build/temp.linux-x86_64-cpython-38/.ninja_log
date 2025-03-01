@@ -1,0 +1,7 @@
+# ninja log v5
+0	3337	1714290316295455647	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	4baeaa589440bfec
+1	10950	1714290323887537171	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	1884eb6580bf4274
+1	16949	1714290329887601603	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/vision.o	8497b66755c59ea9
+3	8730	1717008940484254968	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cpu/ms_deform_attn_cpu.o	1aa28d8fa3822853
+3	17982	1717008949708314456	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/cuda/ms_deform_attn_cuda.o	dd18398227dae1a1
+4	25109	1717008956848360569	/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/build/temp.linux-x86_64-cpython-38/workspace/Mask2Former/mask2former/modeling/pixel_decoder/ops/src/vision.o	71454d58b7488521
