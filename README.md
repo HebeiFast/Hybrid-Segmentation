@@ -4,21 +4,19 @@
 
 </div>
 
-## 环境配置
-首先安装所需依赖:
+## Environment Setting
 ```bash
 pip install -r requirements.txt
 ```
 
-## 数据准备
-下载数据集 
+## Dataset Preparation
 
 [DDD17-Seg数据集]()
 [DSEC-Semantic数据集]()
 [M3ED-Semantic数据集]()
 
-## 测试
-权重文件
+## Evaluation
+Weight Files
 
 [DDD17-Seg数据集]()
 [DSEC-Semantic数据集]()
